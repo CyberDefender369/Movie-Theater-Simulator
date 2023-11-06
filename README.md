@@ -1,5 +1,5 @@
 # Movie Theater Simulator
-
+This Python project covers data structures (dictionary and list), if statements 
 
 # Description 
 
